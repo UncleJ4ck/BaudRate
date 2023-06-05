@@ -1,6 +1,6 @@
 # BaudRate
 
-# Overview
+## Overview
 
 a compact python script to determine the baud rate of serial connections. I've been interested in IOT pentesting lately and i found out there's this script that can identify baud rate ![Baudrate.py](https://github.com/biw/Baudrate.py), but it's old and it's not working i decided to create my own version.
 
